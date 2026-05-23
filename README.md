@@ -25,7 +25,8 @@ This application helps users manage daily tasks efficiently with features like a
 
 # 📸 Project Screenshot
 
-(Add screenshot here later)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0507897a-3596-40f1-abc5-4860c9c8557b" />
+
 
 ---
 
